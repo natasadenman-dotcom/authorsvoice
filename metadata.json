@@ -1,0 +1,7 @@
+{
+  "name": "Ultimate 48 Hour Author's Voice",
+  "description": "Dictate your story, then let AI polish the mechanics while keeping your unique voice intact.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

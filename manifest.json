@@ -1,0 +1,20 @@
+{
+  "short_name": "48Hr Author",
+  "name": "Ultimate 48 Hour Author's Voice",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fdfbf7",
+  "background_color": "#fdfbf7"
+}
